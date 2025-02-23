@@ -1,5 +1,5 @@
 # Sentiment Analysis Research: 
-# COMPARISON OF SENTIMENT LABELING USING TEXTBLOB, VADER, AND FLAIR IN PUBLIC OPINION ANALYSIS POST-2024 PRESIDENTIAL INAUGURATION WITH INDOBERT
+## COMPARISON OF SENTIMENT LABELING USING TEXTBLOB, VADER, AND FLAIR IN PUBLIC OPINION ANALYSIS POST-2024 PRESIDENTIAL INAUGURATION WITH INDOBERT
 
 Welcome to the research repository on **Comparing Sentiment Labeling in Post-Inauguration Sentiment Analysis 2024**. This study aims to analyze public opinion through sentiment analysis on text data taken from social media platforms, **X**, **YouTube**, and **Instagram**. This study compares sentiment labeling techniques using [TextBlob](https://textblob.readthedocs.io/en/dev/), [VADER](https://pypi.org/project/vaderSentiment/), and [Flair](https://github.com/flairNLP/flair), and then tested the results using the [IndoBERT](https://indolem.github.io/IndoBERT/) model to determine the most effective sentiment labeling method.
 
