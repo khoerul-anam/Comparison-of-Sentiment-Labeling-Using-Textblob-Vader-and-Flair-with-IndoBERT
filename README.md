@@ -3,6 +3,9 @@
 
 Welcome to the research repository on **Comparing Sentiment Labeling in Post-Inauguration Sentiment Analysis 2024**. This study aims to analyze public opinion through sentiment analysis on text data taken from social media platforms, **X**, **YouTube**, and **Instagram**. This study compares sentiment labeling techniques using [TextBlob](https://textblob.readthedocs.io/en/dev/), [VADER](https://pypi.org/project/vaderSentiment/), and [Flair](https://github.com/flairNLP/flair), and then tested the results using the [IndoBERT](https://indolem.github.io/IndoBERT/) model to determine the most effective sentiment labeling method.
 
+## Publication
+[Check it here](https://jutif.if.unsoed.ac.id/index.php/jurnal/article/view/4015)
+
 ## 🎯 Project Objective
 
 This study aims to **analyze public opinion**, **compare the results and performance of each labeling technique**, and apply the **IndoBERT model in training and testing**. This study is expected to provide an overview of the selection of labeling techniques for **sentiment analysis**.
